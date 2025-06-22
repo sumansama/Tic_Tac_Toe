@@ -34,6 +34,22 @@ A clean, modern, and fully responsive two-player Tic-Tac-Toe game built using **
 - Node.js and npm installed
 - Git (optional)
 
+  
+Technologies Used
+React
+Vite
+JavaScript (ES6+)
+CSS (custom)
+
+📌 Future Enhancements (Optional Ideas)
+Add AI (single-player mode)
+
+Scoreboard for multiple rounds
+
+Sound effects and animations
+
+Dark/Light theme toggle
+
 ### Steps
 
 ```bash
@@ -49,20 +65,3 @@ npm install
 # 4. Start the development server
 npm run dev
 
-Technologies Used
-React
-
-Vite
-
-JavaScript (ES6+)
-
-CSS (custom)
-
-📌 Future Enhancements (Optional Ideas)
-Add AI (single-player mode)
-
-Scoreboard for multiple rounds
-
-Sound effects and animations
-
-Dark/Light theme toggle
